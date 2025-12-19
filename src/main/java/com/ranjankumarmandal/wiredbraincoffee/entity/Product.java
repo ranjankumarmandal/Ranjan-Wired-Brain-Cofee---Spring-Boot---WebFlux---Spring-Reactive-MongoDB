@@ -1,4 +1,4 @@
-package com.ranjankumarmandal.wiredbraincoffee.model;
+package com.ranjankumarmandal.wiredbraincoffee.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
